@@ -1,0 +1,65 @@
+img{display:block;} /* Force GMail to ignore image spacing. */
+#outlook a {padding:0;} /* Force Outlook to provide a "view in browser" button. */
+body{width:100% !important;} /* Force Hotmail to display emails at full width */
+body{margin:0; padding:0;}
+img{border:none; outline:none; text-decoration:none;}
+            			
+
+body{background:#E6E7E8;margin:0;color:#808080;font-family:helvetica,arial,sans-serif;}
+table{margin:auto;font-size:12px;}
+
+a:active,
+a:link,
+a:visited{color:#F88674;}
+a:hover{color:#60D18E;}
+
+.productCenter a:active,
+.productCenter a:link,
+.productCenter a:visited{color:#F88674;}
+.productCenter a:hover{color:#60D18E;}
+
+a{text-decoration:none;}
+p{line-height:18px}
+.divider{color:#fff}
+.textbox{text-align:left;padding:0 18px 18px 18px;font-size:12.5px}
+#top{font-size:11px;padding:25px 0 10px 0;}
+#top a:visited,
+#top a:active,
+#top a:link{color:#808080}
+#top a:hover{color:#666666}
+
+#top-left{text-align:left;width:413px;}
+#top-right{text-align:right;width:135px;}
+
+#main-left{width:26px;background-color:#E6E7E8}
+#main-center{width:347px;background-color:#FFFFFF;}
+#main-center h2{color:#555555}
+#main-right{padding:0 0 0 0;width:228px;background-repeat:repeat-y;}
+#main-right-top{background-color:#C6E5D0;padding:0 0 0 0;color:#555555}
+#main-right-top .textbox{padding:0 18px 0 18px;font-size:12px}
+#main-right-bottom-left{background-color:#FFFFFF;width:202px;height:11px;}
+#main-right-bottom-right div{background-color:#E6E7E8;width:26px;height:11px;background-repeat:no-repeat;background-position:-61px -1px}
+#footer-left div{width:25px;height:61px;background-color:#E6E7E8;background-repeat:no-repeat;background-position:-95px 0px;}
+#footer-center{width:550px;height:50px;background-color:#636363;}
+#footer-padding{width:550px;height:18px;background-color:#FFFFFF}
+#footer-right div{width:25px;height:61px;background-color:#E6E7E8;background-repeat:no-repeat;background-position:-126px 0px}
+#whitebox{background:#fff;width:548px;}
+.fin-center{width:600px;height:50px;background-color:#636363;}
+.fin-left{width:26px;background-color:#E6E7E8;}
+.fin-padding{width:548px;height:23px;background-color:#FFFFFF;}
+#footer img{display:block}
+.fin-right{width:26px;background-color:#E6E7E8;}
+#logo{background-color:#FFFFFF}
+#bottomspace{font-size:10px;margin:10px 10px 30px 10px}
+.video.textbox{padding:15px 25px 0 25px;}
+#date{text-align:right;padding:18px 18px 18px 0;font-family:georgia;font-style:italic;text-transform:lowercase}
+#bottomspace li, #bottomspace ul, #main-right ul,#main-right li{list-style:none;margin:0;padding:0;}
+#bottomspace li, #main-right li{padding:5px 0 0 0}
+#main-right ul{margin:0 0 14px 18px}
+#bottomspace{margin:0 0 60px 0}
+#copyright{width:274px}
+#mailchmip{width:274px;padding-top:20px;text-align:right}
+
+#product-image img{display:block;}
+.productPad{width:26px;background-color:#E6E7E8}
+.productCenter{width:548;background-color:#FFFFFF;padding:0 26px 0 26px;}
